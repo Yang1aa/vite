@@ -15,7 +15,7 @@ const count = ref(0)
     <button type="button" @click="count++">count is {{ count }}!!!Yangliuan!!!</button>
     <p>
       Edit 
-      <code>components/HelloWorld.vue</code> to test HMR By Yangliuan
+      <code>components/HelloWorld.vue</code> to test HMR By Yangliuan, yangliuan
     </p>
   </div>
 
